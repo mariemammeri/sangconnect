@@ -1,0 +1,11 @@
+{
+  "name": "sangconnect",
+  "version": "1.0.0",
+  "description": "API de gestion des dons de sang",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  }
+}
