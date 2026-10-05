@@ -1,1 +1,1 @@
-# Mode normalnode src/server.js# Mode développement (rechargement automatique)node --watch src/server.js# Ou via les scripts npmnpm startnpm run dev
+
